@@ -76,12 +76,12 @@
 
 
 ## Инструменты:
-Pyton
-Pandas
-Matplotlib
-Seaborn
-Numpy
-Jupyter Notebook
+Pyton  
+Pandas  
+Matplotlib  
+Seaborn  
+Numpy  
+Jupyter Notebook  
 
 ## Итоги исследования
 Были проведены исследования по всем поставленным задачам и сделаны выводы по каждому. 
